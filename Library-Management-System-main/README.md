@@ -1,22 +1,17 @@
 Introduction
+
 A system to streamline book management in a college library. Students can register, issue, and return books easily. The backend follows a Monolithic Architecture.
 
 Technologies Used
+
 Maven: Dependency management
 Spring Boot: REST APIs and web app development
 Spring Security: Authentication & Authorization
 Spring Data JPA (Hibernate): Simplified database operations
 MySQL: Database
 Project Lombok: Reduces boilerplate code
-Usage
-CLI:
 
-bash
-Copy code
-git clone https://github.com/saikat021/Library-Management-System.git  
-cd Library-Management-System  
-mvn package  
-java -jar target/Student-library-0.0.1-SNAPSHOT.jar  
+
 IDE:
 
 Resolve dependencies with Maven.
