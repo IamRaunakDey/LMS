@@ -34,23 +34,6 @@ public class StudentLibraryApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args)throws Exception {
 
-//		Student student =new Student("xyz@gnail.com","raunak",21,"India");
-//
-//		Card card=new Card();
-//		card.setStudent(student);
-//		student.setCard(card);
-//
-//		cardRepository.save(card);
-//		studentRepository.updateStudentEmail("abc@gnail.com","abc@9876");
-//
-//		Author author=new Author("Raunak","rk@gmail.com",23,"India");
-//		Book book=new Book("Java Book", Genre.JAVA,author);
-//		author.setBooks_written(Arrays.asList(book));
-//		authorRepository.save(author);
-//		cardRepository.findAll().stream().forEach(System.out::println);
-
-
-		//Saving the parent automatically saves the student
 
 
 	}
